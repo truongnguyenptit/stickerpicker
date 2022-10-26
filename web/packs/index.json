@@ -1,6 +1,7 @@
 {
   "packs": [
-    "emotes.json"
+    "emotes.json",
+    "MarcusTiger.json"
   ],
   "homeserver_url": "https://sv.schoolonair.net"
 }
