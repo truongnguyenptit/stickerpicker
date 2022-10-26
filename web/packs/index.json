@@ -1,7 +1,16 @@
 {
   "packs": [
     "emotes.json",
-    "MarcusTiger.json"
+    "MarcusTiger.json",
+    "madebynhicute.json",
+    "PhoCoin.json",
+    "italypuss.json",
+    "taolao.json",
+    "emgaimua.json",
+    "vozstickerfun.json",
+    "Panpahehuoc.json",
+    "Cat_line.json",
+    "PeterCxy.json"
   ],
   "homeserver_url": "https://sv.schoolonair.net"
 }
